@@ -1,1 +1,1 @@
-brew tap heroku/brew && brew install heroku
+web: gunicorn mysite.wsgi
