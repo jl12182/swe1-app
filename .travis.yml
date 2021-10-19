@@ -1,7 +1,7 @@
 language: python
 
 before-install:
-  - pip install -r requirements.txt
+  - pip install -r requirements-build.txt
 
 script:
   - python manage.py

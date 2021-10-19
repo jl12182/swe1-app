@@ -1,0 +1,5 @@
+gunicorn
+black
+flake8
+coverage
+coveralls
